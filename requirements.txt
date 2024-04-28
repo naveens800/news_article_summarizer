@@ -1,0 +1,5 @@
+deeplake
+langchain==0.1.4
+openai==1.10.0
+titoken
+newspaper3k==0.2.8
